@@ -1,0 +1,6 @@
+/playground/__pycache__/
+/playground/migrations/
+/storefront/__pycache__/
+.vscode/
+Pipfile.lock
+
